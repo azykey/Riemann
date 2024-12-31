@@ -1,4 +1,9 @@
 # Riemann
+
+ESTAVA ORGANIZANDO MAIS NADA DE MAIS É ISSO E MEU APESAR QUE MESMO QUE UMA PESSOA.
+COPIE UM CALCULO DA OUTRA NAO QUER DIZER QUE ELA TA FAZENDO A MESMA COISA CALCULOS SAO UNICOS. 
+MAIS NA ONDE VEIO A PRIMEIRA POSTAGEM ?
+
 RiemannProtótipoDeUmSegredo
 [AdilsonliveiraIAtraining.pdf](https://github.com/user-attachments/files/18282998/AdilsonliveiraIAtraining.pdf)
 
