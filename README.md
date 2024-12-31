@@ -1,8 +1,6 @@
 # Riemann
 
-ESTAVA ORGANIZANDO MAIS NADA DE MAIS É ISSO E MEU APESAR QUE MESMO QUE UMA PESSOA.
-COPIE UM CALCULO DA OUTRA NAO QUER DIZER QUE ELA TA FAZENDO A MESMA COISA CALCULOS SAO UNICOS. 
-MAIS NA ONDE VEIO A PRIMEIRA POSTAGEM ?
+Eu estava organizando, mas não foi nada demais, é isso. Apesar de que, mesmo que uma pessoa copie um cálculo de outra, isso não significa que estão fazendo a mesma coisa; cálculos são únicos. Mas, de onde veio a primeira postagem?
 
 RiemannProtótipoDeUmSegredo
 [AdilsonliveiraIAtraining.pdf](https://github.com/user-attachments/files/18282998/AdilsonliveiraIAtraining.pdf)
