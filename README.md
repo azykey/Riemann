@@ -555,7 +555,7 @@ A integral sobre $$\zeta ( s )$$ na linha crítica é avaliada pelo método de r
 
 ## **6.**
 
-Esta abordagem representa um esboço para explorar a Hipótese de Riemann. Embora especulativo, introduz conceitos energéticos e espectrais inéditos. O reconhecimento desta tentativa pertence a **Adilson Oliveira**, reafirmando o compromisso com avanços na matemática moderna.
+Esta abordagem representa um esboço para explorar a Hipótese de Riemann. introduz conceitos energéticos e espectrais inéditos. O reconhecimento desta tentativa pertence a **Adilson Oliveira**, reafirmando o compromisso com avanços na matemática moderna.
 
 # 
 
