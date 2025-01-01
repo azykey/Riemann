@@ -1,4 +1,7 @@
-### ADILSON Oliveira..
+### Adilson Oliveira..
+Espectral-ergódica 
+FELIZ 2025 
+
 
 ### Riemann Protótipo De Um Segredo
 
